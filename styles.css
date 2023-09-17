@@ -1,0 +1,19 @@
+body {
+  background-color: #7D7C7C;
+  font-style: Sans-serif;
+  font-size: 100%;
+  font-family: sans-serif;
+
+}
+
+hr {
+
+width: 7%;
+border-style: none;
+border-top-style: dotted;
+border-width: 10px;
+border-color: #191717;
+}
+img {
+width: auto;
+}
